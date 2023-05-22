@@ -1,0 +1,20 @@
+{
+    "name": "vsulashvili/inspire",
+    "description": "My first laravel package",
+    "type": "library",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vsulashvili\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vaso",
+            "email": "v.sulashvili@gmail.com"
+        }
+    ]
+}
